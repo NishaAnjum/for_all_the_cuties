@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(255, 192, 203);
+}
+
+.header_text {
+    font-family: 'times-new-roman';
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.subheader_text {
+    font-family: 'times-new-roman';
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
